@@ -1,2 +1,2 @@
-# karasheppard
+# kara-sheppard
 My blog
